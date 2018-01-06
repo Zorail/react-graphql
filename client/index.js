@@ -1,3 +1,4 @@
+import './style/style.css'
 import React,{ Component } from 'react';
 import ReactDOM from 'react-dom';
 import ApolloClient from 'apollo-client';
